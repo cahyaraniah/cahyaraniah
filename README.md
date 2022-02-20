@@ -1,6 +1,6 @@
 ### Hello world 👋
 I am Cahyarani (just call me Chaye), a management student of Brawijaya University who is also interested in programming!
-- 🌱 A machine learning student of Bangkit Academy 2022
+🌱 A machine learning student of Bangkit Academy 2022
 
 ### Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/cahyaraniah)
@@ -10,3 +10,8 @@ I am Cahyarani (just call me Chaye), a management student of Brawijaya Universit
 <br>
 ![](https://komarev.com/ghpvc/?username=dzaarsyd&color=ff69b4)
 <br>
+<p align="left">
+<a href="https://github.com/cahyaraniah">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=cahyaraniah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
